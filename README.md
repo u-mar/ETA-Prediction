@@ -18,5 +18,11 @@ Accurate ETAs are essential for optimizing operations such as fare calculations,
 
 ---
 
+## Data Understanding
+**Data Source**  
+![source](Images/Overview.png)
+
+The data is collected from a real-time traffic API and map services. It is streamed using Apache Spark, then fed into the model for processing and predictions.
+
 
 
